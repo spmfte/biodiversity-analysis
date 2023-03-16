@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/aidan/Downloads/biodiversity_starter",
+  "password": false,
+  "pid": 15951,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "eaabdd6a5599a64e88a4079413fdf487745dd8243ce82af9",
+  "url": "http://localhost:8888/"
+}
